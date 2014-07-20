@@ -69,3 +69,13 @@ When writing this small app I had some assumptions:
 ## Final note
 
 Tested on Ubuntu with Python 2.7.5 and virtualenv
+
+## Example of output
+
+```
+Stats for user 'mrfuxi':
+- listened to a total of 554 tracks.
+- top 5 favorite artists: Chris Rea, Dire Straits, Evanescence, Formacja Nieżywych Schabuff, The Doors.
+- listen to an average of 22 tracks a day.
+- most active day is Saturday.
+```
